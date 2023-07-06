@@ -5,6 +5,7 @@
 
 
 Whisper: https://huggingface.co/openai/whisper-large-v2/tree/main
+Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Segment 13.0)
 
 <br>
 ### Installation Requirements: (Windows 11, Python 3.10.11)
