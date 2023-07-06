@@ -1,14 +1,10 @@
-# Whisper
 
-
-## Getting Started:
-
+# Getting Started:
 
 Whisper: https://huggingface.co/openai/whisper-large-v2/tree/main <br>
 Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Segment 13.0)
 
-<br>
-### Installation Requirements: (Windows 11, Python 3.10.11)
+## Installation Requirements: (Windows 11, Python 3.10.11) <br>
 1. Pytorch: https://pytorch.org/get-started/locally/
      <br> ``` pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117 ```
 2. Chocolatey: https://chocolatey.org/install
