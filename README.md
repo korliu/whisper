@@ -15,4 +15,5 @@ Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Seg
      <br> ```pip install transformers```
 5. Hugging Face Evaluate: https://huggingface.co/evaluate-metric
      <br> ```pip install jiwer``` and then ```pip install evaluate```
-   
+6. Hugging Face Sentence Transformers: https://huggingface.co/tasks/sentence-similarity   
+     <br> ```pip install -U sentence-transformers```
