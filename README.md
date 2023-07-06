@@ -1,7 +1,7 @@
 
 # Getting Started:
 
-Whisper: https://huggingface.co/openai/whisper-large-v2/tree/main <br>
+Whisper: https://huggingface.co/openai/whisper-large-v2/ <br>
 Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Segment 13.0)
 
 ## Installation Requirements: (Windows 11, Python 3.10.11) <br>
@@ -13,6 +13,6 @@ Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Seg
      <br> ```choco install ffmpeg```
 4. Hugging Face Transformers: (To use for Whisper)
      <br> ```pip install transformers```
-5. Hugging Face Evaluate:
+5. Hugging Face Evaluate: https://huggingface.co/evaluate-metric
      <br> ```pip install jiwer``` and then ```pip install evaluate```
    
