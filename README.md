@@ -4,7 +4,7 @@
 ## Getting Started:
 
 
-Whisper: https://huggingface.co/openai/whisper-large-v2/tree/main
+Whisper: https://huggingface.co/openai/whisper-large-v2/tree/main <br>
 Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Segment 13.0)
 
 <br>
