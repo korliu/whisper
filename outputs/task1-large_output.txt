@@ -1,0 +1,24 @@
+whisper_transcription	expected_transcription	word_error_rate	cosine_similarity
+Charles Curtis functioned as Trotsky's primary link with the Mexican Trotskyists.	Charles Curtiss functioned as Trotsky's primary link with the Mexican Trotskyists.	0.09090909090909091	0.7696335315704346
+One was the bombing of Japanese industrial centres in the Doolittle raid.	One was the bombing of Japanese industrial centres in the Doolittle Raid.	0.08333333333333333	0.9999998807907104
+A third factor affecting imports was trade liberalization.	A third factor affecting imports was trade liberalization.	0.0	1.0000001192092896
+The site is on a hillside and is accessed via rock cut steps.	The site is on a hillside, and is accessed via rock cut steps.	0.07692307692307693	0.9982803463935852
+According to New Jersey law, they were free.	According to New Jersey law, they were free.	0.0	1.0
+If not powered properly, only a blue screen will be displayed.	If not powered properly, only a blue screen will be displayed.	0.0	1.0000001192092896
+The church said Sony did not obtain permission to use the interior.	The Church said Sony did not obtain permission to use the interior.	0.08333333333333333	1.0
+He grew up in Hermosa Beach, California.	He grew up in Hermosa Beach, California.	0.0	1.0000001192092896
+The town's present name honors W.A. Crooks, a local politician.	The town's present name honors W. A. Crooks, a local politician.	0.18181818181818182	1.0000001192092896
+The title was awarded upon proposal of the government.	The title was awarded upon proposal of the government.	0.0	1.0
+Long, narrow lakes are found throughout the valleys of the southern and central interior.	Long, narrow lakes are found throughout the valleys of the Southern and Central Interior.	0.21428571428571427	0.9999999403953552
+Across from the picnic area is the Golden State Model Railroad Museum.	Across from the picnic area is the Golden State Model Railroad Museum.	0.0	1.0
+Together they had two children and one stepchild.	Together they had two children and one step child.	0.2222222222222222	0.9866458773612976
+The title row was sung by Daniel Bereta and Maria Magdalena was Anne Marie David.	The title role was sung by Daniel Beretta, and Maria Magdalena was Anne-Marie David.	0.2857142857142857	0.8570610880851746
+Bus services are operated by Stagecoach with dial bus services being operated by Aberdeen Shire Council.	Bus services are operated by Stagecoach with dialabus services being operated by Aberdeenshire Council.	0.2857142857142857	0.9273067116737366
+Each winter found her with the fleet in Cuban waters for maneuvers.	Each winter found her with the fleet in Cuban waters for maneuvers.	0.0	1.0000001192092896
+The palaeo man just made up of three main bodies.	The Parliament is made up of three main bodies.	0.3333333333333333	0.44011029601097107
+There are also two free trains, two at peak hours on weekday mornings.	There are also two through trains to at peak hours on weekday mornings.	0.23076923076923078	0.8694822192192078
+The circulation gangs were disbanded.	The circulation gangs were disbanded.	0.0	1.0000001192092896
+Klabiona is nearly worldwide in distribution.	Clubiona is nearly worldwide in distribution.	0.16666666666666666	0.5794210433959961
+DATA FROM 20 CLIPS using whisper-large 
+	AVG WORD ERROR RATE: 0.11275113775113772 
+	AVG COSINE SIMILARITY: 0.9213970825076103

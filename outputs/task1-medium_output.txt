@@ -1,0 +1,104 @@
+whisper_transcription	expected_transcription	word_error_rate	cosine_similarity
+Charles Curtis functioned as Trotsky's primary link with the Mexican Trotskyists.	Charles Curtiss functioned as Trotsky's primary link with the Mexican Trotskyists.	0.09090909090909091	0.7696335315704346
+One was the bombing of Japanese industrial centers in the Doolittle raid.	One was the bombing of Japanese industrial centres in the Doolittle Raid.	0.16666666666666666	0.9842379689216614
+A third factor affecting imports was trade liberalization.	A third factor affecting imports was trade liberalization.	0.0	1.0000001192092896
+The site is on a hillside and is accessed via rock cut steps.	The site is on a hillside, and is accessed via rock cut steps.	0.07692307692307693	0.9982803463935852
+According to New Jersey law, they were free.	According to New Jersey law, they were free.	0.0	1.0
+If not powered properly, only a blue screen will be displayed.	If not powered properly, only a blue screen will be displayed.	0.0	1.0000001192092896
+The church said Sony did not obtain permission to use the interior.	The Church said Sony did not obtain permission to use the interior.	0.08333333333333333	1.0
+He grew up in Hermosa Beach, California.	He grew up in Hermosa Beach, California.	0.0	1.0000001192092896
+The town's present name honors W. A. Crooks, a local politician.	The town's present name honors W. A. Crooks, a local politician.	0.0	1.0000001192092896
+The title was awarded upon proposal of the government.	The title was awarded upon proposal of the government.	0.0	1.0
+Long narrow lakes are found throughout the valleys of the southern and central interior.	Long, narrow lakes are found throughout the valleys of the Southern and Central Interior.	0.2857142857142857	0.9964249134063721
+Across from the picnic area is the Golden State Model Railroad Museum.	Across from the picnic area is the Golden State Model Railroad Museum.	0.0	1.0
+Together, they had two children and one stepchild.	Together they had two children and one step child.	0.3333333333333333	0.980841338634491
+The title row was sung by Daniel Beretta and Maria Magdalena. It was Anne Marie David.	The title role was sung by Daniel Beretta, and Maria Magdalena was Anne-Marie David.	0.42857142857142855	0.8276774287223816
+Bus services are operated by Stagecoach, with dial bus services being operated by Aberdeenshire Council.	Bus services are operated by Stagecoach with dialabus services being operated by Aberdeenshire Council.	0.21428571428571427	0.9534257054328918
+Each winter found her with the fleet in Cuban waters for maneuvers.	Each winter found her with the fleet in Cuban waters for maneuvers.	0.0	1.0000001192092896
+the parliament is made up of three main bodies	The Parliament is made up of three main bodies.	0.3333333333333333	0.9938518404960632
+There are also two full trains, two at peak hours on weekday mornings.	There are also two through trains to at peak hours on weekday mornings.	0.23076923076923078	0.9331526756286621
+The circulation gangs were disbanded.	The circulation gangs were disbanded.	0.0	1.0000001192092896
+Club Iona is nearly worldwide in distribution.	Clubiona is nearly worldwide in distribution.	0.3333333333333333	0.6563535332679749
+Yamashita has two sons.	Yamashita has two sons.	0.0	1.0
+Both of Newman's children are pursuing acting careers.	Both of Newman's children are pursuing acting careers.	0.0	1.0000001192092896
+Amotos both joined Honda for its participation in the Formula One races.	A motorsports fan, he joined Honda for its participation in the Formula One races.	0.2857142857142857	0.6858326196670532
+Ficarra have competed on the unified team in Barcelona.	Chikarev had competed on the Unified Team in Barcelona.	0.4444444444444444	0.6226038336753845
+It is a suburb of Cincinnati.	It is a suburb of Cincinnati.	0.0	1.0000001192092896
+By minting new and better quality currency inflation was controlled.	By minting new and better quality currency, inflation was controlled.	0.1	0.9793087244033813
+Krause had written her first collection of songs before the age of 12.	Kraus had written her first collection of songs before the age of twelve.	0.15384615384615385	0.9653263092041016
+They are still performing today.	They are still performing today.	0.0	1.0000001192092896
+It is serviced by the Rhode Island Ave Brandwood Metro Station.	It is serviced by the Rhode Island Ave-Brentwood Metro station.	0.3	0.9358103275299072
+Stop failing to fulfill your duty.	Stop failing to fulfill your duty.	0.0	1.0
+He's broared in Westminster Abbey with a monument by William Banner's.	He is buried in Westminster Abbey with a monument by William Behnes.	0.3333333333333333	0.621414065361023
+Slashes indicate fixed combinations of single phrases.	Slashes indicate fixed combinations of single phrases.	0.0	1.000000238418579
+Notable resident of Lemma.	Notable resident of Lemmer.	0.25	0.6491637229919434
+And the people who knocked these buildings down will hear all of us soon.	And the people who knocked these buildings down will hear all of us soon!	0.07142857142857142	0.9814302921295166
+because water molecules are polar, hydrofols do not dissolve well among them.	Because water molecules are polar, hydrophobes do not dissolve well among them.	0.16666666666666666	0.8585216999053955
+The user can then navigate the files regardless of file structure.	The user can then navigate the files regardless of file structure.	0.0	1.0
+Being underage for army service he was discharged when his real age was discovered.	Being underage for army service, he was discharged when his real age was discovered.	0.07142857142857142	0.9965024590492249
+The last play I left alive wins.	The last player left alive wins.	0.3333333333333333	0.7294191122055054
+It takes the form of a services and configuration microkernel.	It takes the form of a services and configuration microkernel.	0.0	1.0000001192092896
+Inferential role semantics is sometimes contrasted to truth conditional semantics.	Inferential role semantics is sometimes contrasted to truth-conditional semantics.	0.2222222222222222	0.9978715777397156
+What will they be?	What will they be?	0.0	1.0000001192092896
+All these festivals and organizations are sponsored by private enterprise.	All these festivals and organisations are sponsored by private enterprise.	0.1	0.9857539534568787
+What's that downstairs?	What's that downstairs?	0.0	1.0000001192092896
+The award consists of a gold plated silver medal.	The award consists of a gold plated silver medal.	0.0	1.0
+This matches Saxon and Iberian tradition.	This matches Saxon and Hibernian tradition.	0.16666666666666666	0.8031231760978699
+In general, each station has its own format for the time code.	In general, each station has its own format for the time code.	0.0	1.0
+It administrative center was served at half.	Its administrative centre was Serpukhov.	1.0	0.34145888686180115
+The website has described as Rhine wine, Parait, Islamophite and Antisland.	The website has been described as "right-wing", "far-right", "Islamophobic" and "anti-Islam".	0.5454545454545454	0.5493865609169006
+Shortly after it had a hype.	Shortly after Hi-de-Hi!	1.3333333333333333	0.5050053596496582
+During this time it was governed by 19 different commissioners.	During this time it was governed by nineteen different commissioners.	0.1	0.9606481790542603
+Brooke was eulogized as a friend of toleration by John Milton.	Brooke was eulogized as a friend of toleration by John Milton.	0.0	1.0000001192092896
+Leonardo was born in Australia to Italian parents.	Leonardi was born in Australia to Italian parents.	0.125	0.7662125825881958
+In terms of handling, the backstaff was found to be more easy to use.	In terms of handling, the backstaff was found to be more easy to use.	0.0	1.0000001192092896
+The K is silent.	The 'K' is silent.	0.25	0.9525346755981445
+What will protect him?	What will protect him?	0.0	1.0000001192092896
+Ptolemy's work probably originally came with maps, but none have been discovered.	Ptolemy's work probably originally came with maps, but none have been discovered.	0.0	1.000000238418579
+During this time, he was also a member of the Philadelphia Woodwind Quintet.	During this time, he was also a member of the Philadelphia Woodwind Quintet.	0.0	1.0
+It is influenced by authors and thinkers like Jan Narveson and Murray Rothbard.	It is influenced by authors and thinkers like Jan Narveson and Murray Rothbard.	0.0	1.0
+The first motion the club passed was in support of the marijuana initiative.	The first motion the club passed was in support of the marijuana initiative.	0.0	1.0000001192092896
+The journey was uneventful until the vessel reached the ship Shoal Wreck buoy.	The journey was uneventful until the vessel reached the Ship Shoal Wreck Buoy.	0.15384615384615385	1.0
+It also has branched into television shows and event management.	It also has branched into television shows and event management.	0.0	1.0
+He never again saw his Philippine homeland.	He never again saw his Philippine homeland.	0.0	1.0
+The town was named for George A. Crawford, Governor-elect of Kansas.	The town was named for George A. Crawford, governor-elect of Kansas.	0.09090909090909091	1.0
+Wortmann also killed two dogs and injured two others.	Wortman also killed two dogs and injured two others.	0.1111111111111111	0.9432646036148071
+The lust carries over into the technology, leaving the male's world aghast.	The lust carries over into the technology, leaving the males' world aghast.	0.08333333333333333	0.9802555441856384
+Most of the current school buildings date from around or after this time.	Most of the current school buildings date from around or after this time.	0.0	1.0000001192092896
+For example, changing color output at each beat input.	for example changing colour output at each beat input.	0.3333333333333333	0.9897326827049255
+The next year his first one-man show was held at the Daniel Gallery.	The next year his first one-man show was held at the Daniel Gallery.	0.0	1.0
+North of Pleasant Mills, the road crosses over the St. Mary's River.	North of Pleasant Mills, the road crosses over the Saint Marys River.	0.16666666666666666	0.9723071455955505
+This region have Gutuweri River at Nashik.	This region have Godawari river at Nashik.	0.2857142857142857	0.7726317048072815
+Keenleyside was born in London, the son of Raymond and Anne Keenleyside.	Keenlyside was born in London, the son of Raymond and Ann Keenlyside.	0.25	0.8848758339881897
+When extended, the turf can accommodate football, soccer, and field hockey.	When extended, the turf can accommodate football, soccer, and field hockey.	0.0	1.0000001192092896
+However, their camp is attacked by black veiled bandits who kidnap Elsa and Ada.	However, their camp is attacked by black-veiled bandits who kidnap Elsa and Ada.	0.15384615384615385	0.9973554611206055
+Most people have just one pancreatic duct.	Most people have just one pancreatic duct.	0.0	0.9999998211860657
+The court is located in Belling's, Booth, Great Falls, Helena, and Missoula.	The court is located in Billings, Butte, Great Falls, Helena and Missoula.	0.25	0.7746419906616211
+Georgia Mazel, Eve Marks, and Maddie Mazel are adult sisters.	Georgia Mozell, Eve Marks and Maddy Mozell are adult sisters.	0.4	0.7553616762161255
+See Gaelic nobility of Ireland.	See Gaelic nobility of Ireland.	0.0	1.0000001192092896
+Three books of six sonatas each were published by John Walsh in London.	Three books of six sonatas each were published by John Walsh in London.	0.0	1.0
+Carton is a member of the beta-sigma fraternity.	Carthon is a member of Phi Beta Sigma fraternity.	0.4444444444444444	0.7857990264892578
+Sylvester was the only American to win that medal at those games.	Sylvester was the only American to win a medal at those games.	0.08333333333333333	0.9948036670684814
+There are many ways reference electrodes are used.	There are many ways reference electrodes are used.	0.0	1.0
+The Leonard Jones potential is commonly used to describe the latter.	The Lennard-Jones potential is commonly used to describe the latter.	0.2	0.7271066904067993
+He died in Houston, Texas.	He died in Houston, Texas.	0.0	1.0000001192092896
+Maybe the dudes at K-Tail were a little too slick for the job.	Maybe the dudes at K-Tell were a mite too slick for the job.	0.15384615384615385	0.724288821220398
+Today, the Victoria Crosses are in the National Armed Museum.	Today, their Victoria Crosses are in the National Army Museum.	0.2	0.9416058659553528
+Brown spider monkeys are found in northern Colombia and northwestern Venezuela.	Brown spider monkeys are found in northern Colombia and northwestern Venezuela.	0.0	0.9999999403953552
+He is particularly known for his research on the pictures Stones of Gotland.	He is particularly known for his research on the picture stones of Gotland.	0.15384615384615385	0.9936391711235046
+The south end is near the Tate Modern Art Gallery and the Oxford Tower.	The south end is near the Tate Modern art gallery and the Oxo Tower.	0.21428571428571427	0.8952783942222595
+Don't leave the cat there.	Don't leave the cat there!	0.2	0.9523506164550781
+His interests included golf, coin and claw collecting, radio-controlled model airplanes and cooking.	His interests included golf, coin and clock collecting, radio-controlled model airplanes and cooking.	0.07692307692307693	0.9678042531013489
+There is also a well attended annual year-end holiday ball.	There is also a well attended annual year end holiday ball.	0.18181818181818182	0.9974797368049622
+The Restless Records division focused on alternative artists not intended for major label distribution.	The Restless Records division focused on alternative artists not intended for major label distribution.	0.0	1.0000001192092896
+Meanwhile, the community is devastated by the failure that it killed several of their members.	Meanwhile, the community is devastated by a fire that kills several of their number.	0.35714285714285715	0.7902107238769531
+An alternative endless title, it's endless love.	An alternative English title is "Endless Love".	0.7142857142857143	0.8660035133361816
+Miss Moon is a node to lovemaking when a woman is menstruating.	Miss Moon is an ode to lovemaking while a woman is menstruating.	0.25	0.9296329617500305
+It consisted of an orbiter and a lander.	It consisted of an orbiter and a lander.	0.0	1.0000001192092896
+Three other journalists and typographers remained injured.	Three other journalists and typographers remained injured.	0.0	1.0
+Katsumata and Mao filled the ring with broken plastic cases and Lego blocks.	Katsumata and Mao filled the ring with broken plastic cases and Lego blocks.	0.0	1.000000238418579
+This is a partial list of the last five seasons completed by the Predators.	This is a partial list of the last five seasons completed by the Predators.	0.0	1.0000001192092896
+It is a wife and his brother, the E.	It is a wife and his brother, the E.	0.0	1.0
+DATA FROM 100 CLIPS using whisper-medium 
+	AVG WORD ERROR RATE: 0.1443873071373071 
+	AVG COSINE SIMILARITY: 0.9261764070391655
