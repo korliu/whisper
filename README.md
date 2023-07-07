@@ -17,14 +17,18 @@ Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Seg
      <br> ```pip install jiwer``` and then ```pip install evaluate```
 6. Hugging Face Sentence Transformers: https://huggingface.co/tasks/sentence-similarity   
      <br> ```pip install -U sentence-transformers```
-
+7. Pandas:
+     <br> ```pip install pandas```
+8. soundfile:
+     <br> ```pip install soundfile```
 
 
 
 ## Resources:
-https://huggingface.co/openai/whisper-large-v2/
-https://huggingface.co/docs/transformers/
-https://huggingface.co/evaluate-metric
-https://huggingface.co/tasks/sentence-similarity
-https://chocolatey.org/install
-https://pytorch.org/
+- https://huggingface.co/openai/whisper-large-v2/
+- https://huggingface.co/docs/transformers/
+- https://huggingface.co/evaluate-metric
+- https://huggingface.co/tasks/sentence-similarity
+- https://chocolatey.org/install
+- https://pytorch.org/
+- https://huggingface.co/docs/datasets/main/en/
