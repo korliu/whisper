@@ -22,9 +22,10 @@ Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Seg
 
 
 ## Resources:
-https://huggingface.co/openai/whisper-large-v2/
-https://huggingface.co/docs/transformers/
-https://huggingface.co/evaluate-metric
-https://huggingface.co/tasks/sentence-similarity
-https://chocolatey.org/install
-https://pytorch.org/
+- https://huggingface.co/openai/whisper-large-v2/
+- https://huggingface.co/docs/transformers/
+- https://huggingface.co/evaluate-metric
+- https://huggingface.co/tasks/sentence-similarity
+- https://chocolatey.org/install
+- https://pytorch.org/
+- https://huggingface.co/docs/datasets/main/en/
