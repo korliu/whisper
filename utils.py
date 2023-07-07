@@ -1,6 +1,8 @@
 import evaluate
 import csv
 from sentence_transformers import SentenceTransformer, util
+import torchaudio
+import numpy
 
 def get_validated_data() -> dict:
     """
@@ -48,3 +50,12 @@ def cos_sim_calc(sentence_model: SentenceTransformer, prediction_sentence: str, 
     cosine_similarity =  util.pytorch_cos_sim(prediction_embedding,reference_embedding)
 
     return cosine_similarity
+
+def get_audio(audio_path: str):
+    '''
+    gets waveform (in numpy form) and sampling rate of the audio with the path, do not include directory
+    '''
+    waveform, sampling_rate = torchaudio.load(audio_path)
+    # print(waveform,sample_rate)
+    waveform = waveform.numpy()[0].astype('float32')
+    return waveform, sampling_rate
