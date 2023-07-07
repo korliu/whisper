@@ -1,4 +1,5 @@
 import evaluate
+import csv
 from sentence_transformers import SentenceTransformer, util
 
 def get_validated_data() -> dict:
