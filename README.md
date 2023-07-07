@@ -19,7 +19,8 @@ Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Seg
      <br> ```pip install -U sentence-transformers```
 7. Pandas:
      <br> ```pip install pandas```
-
+8. soundfile:
+     <br> ```pip install soundfile```
 
 
 
