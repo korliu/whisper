@@ -76,7 +76,7 @@ with open(sentiment_score_file,'w',encoding='utf-8') as out:
     out.writelines(output_arr)
 
 
-type_token = {}
+type_token_dict = {}
 # calculate type-token-ratio
 with open(file_to_analyze,'r',encoding='utf-8') as file:
 
@@ -95,9 +95,11 @@ with open(file_to_analyze,'r',encoding='utf-8') as file:
         
         text = re.sub('[,.]','',line[transcription]).split()
         if clip_num % 10 == 0 and clip_num > 0:
+
+            unique_in_group = len(words_encountered)
             type_token_val = len(words_encountered)/words_in_group
 
-            type_token[curr_group] = type_token_val
+            type_token_dict[curr_group] = [str(type_token_val),str(unique_in_group),str(words_in_group)]
 
             words_encountered = set()
             words_in_group = 0
@@ -111,17 +113,21 @@ with open(file_to_analyze,'r',encoding='utf-8') as file:
         clip_num += 1
 
         if words_in_group != 0:
+            unique_in_group = len(words_encountered)
             type_token_val = len(words_encountered)/words_in_group
 
-            type_token[curr_group] = type_token_val
+            type_token_dict[curr_group] = [str(type_token_val),str(unique_in_group),str(words_in_group)]
 
 
-print(type_token)
+# print(type_token_dict)
 
-with open(sentiment_score_file,'w',encoding='utf-8') as out:
-    headers = ["CLIP","SENTIMENT", "SCORE"]
+with open(type_token_ratio_file,'w',encoding='utf-8') as out:
+    headers = ["GROUP_NUMBER","TYPE_TOKEN_RATIO","TYPE","TOKEN"]
 
     output_arr = []
     output_arr.append(",".join(headers)+"\n")
+
+    for group_num, data in type_token_dict.items():
+        output_arr.append(",".join([str(group_num)]+data)+"\n")
 
     out.writelines(output_arr)
