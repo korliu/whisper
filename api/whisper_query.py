@@ -17,6 +17,7 @@ def setup_whisper(whisper_model_type: str) -> pipelines.Pipeline:
 
     """
     Sets up whisper, based on the whisper model type
+    types: tiny, base, small, medium, large, large-v2
     """
 
     if not whisper_model_type in model_types:
