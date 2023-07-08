@@ -22,6 +22,13 @@ Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Seg
 8. soundfile:
      <br> ```pip install soundfile```
 
+Performance Report: https://docs.google.com/document/d/1Kc378I8IxEUm957ndcmMiJkQyHnHVgJjNDjVGVXzHfk/edit?usp=sharing
+
+## Summary:
+Used Hugging Face and its transformers library to use the Whisper model on the Common Voice Delta Segment 13.0 dataset and analyzed its transcribed text results
+Attempted to create my own model for binary gender classification using facebook's wav2vec2 model for audio classification
+
+
 
 Hugging Face Models used:
 - cardiffnlp/twitter-roberta-base-sentiment-latest (for sentiment analysis)
