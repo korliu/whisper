@@ -32,3 +32,4 @@ Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Seg
 - https://chocolatey.org/install
 - https://pytorch.org/
 - https://huggingface.co/docs/datasets/main/en/
+- https://www.sltinfo.com/wp-content/uploads/2014/01/type-token-ratio.pdf
