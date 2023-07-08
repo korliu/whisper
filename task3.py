@@ -7,7 +7,7 @@ import re
 
 output_dir = "./outputs/"
 word_freq_file = output_dir + "task3-word-freq.csv"
-sentiment_score_file = output_dir + "task3-sentiment.csv"
+sentiment_score_file = output_dir + "task3-sentiment-scores.csv"
 type_token_ratio_file = output_dir + "task3-type-token-ratio.csv"
 
 file_to_analyze = "./outputs/task1-medium_output.txt"
@@ -42,6 +42,7 @@ with open(file_to_analyze,'r',encoding='utf-8') as file:
             word_freq_histogram[word] = word_freq_histogram[word] + 1
 
 # print(sentiment_scores, word_freq_histogram)
+
 # output word frequency
 with open(word_freq_file,'w',encoding='utf-8') as out:
     headers = ["WORD","FREQUENCY"]
@@ -54,6 +55,23 @@ with open(word_freq_file,'w',encoding='utf-8') as out:
     for word_info in sorted_by_freq:
         word, freq = word_info
         output_arr.append(",".join([word,str(freq)])+"\n")
+
+    out.writelines(output_arr)
+
+# output sentiment scores
+with open(sentiment_score_file,'w',encoding='utf-8') as out:
+    headers = ["CLIP","SENTIMENT", "SCORE"]
+
+    output_arr = []
+    output_arr.append(",".join(headers)+"\n")
+    
+    for data in sentiment_scores.items():
+        
+        clip, sentiment_info = data
+        
+        sentiment = sentiment_info[0]
+        
+        output_arr.append(",".join([str(clip), str(sentiment['label']), str(sentiment['score'])])+"\n")
 
     out.writelines(output_arr)
 
@@ -98,4 +116,12 @@ with open(file_to_analyze,'r',encoding='utf-8') as file:
             type_token[curr_group] = type_token_val
 
 
-# print(type_token)
+print(type_token)
+
+with open(sentiment_score_file,'w',encoding='utf-8') as out:
+    headers = ["CLIP","SENTIMENT", "SCORE"]
+
+    output_arr = []
+    output_arr.append(",".join(headers)+"\n")
+
+    out.writelines(output_arr)
