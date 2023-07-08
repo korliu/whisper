@@ -23,6 +23,11 @@ Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Seg
      <br> ```pip install soundfile```
 
 
+Hugging Face Models used:
+- cardiffnlp/twitter-roberta-base-sentiment-latest (for sentiment analysis)
+- openai/whisper-large-v2/ (for audio transcription)
+- facebook/wav2vec2-base (for audio classification)
+
 
 ## Resources:
 - https://huggingface.co/openai/whisper-large-v2/
