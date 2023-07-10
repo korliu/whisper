@@ -12,7 +12,7 @@ Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Seg
 3. FFMPEG: Run in command line:
      <br> ```choco install ffmpeg```
 4. Hugging Face Transformers: (To use for Whisper)
-     <br> ```pip install transformers```
+     <br> ```pip install transformers``` and ```pip install transformers[torch]```
 5. Hugging Face Evaluate: https://huggingface.co/evaluate-metric
      <br> ```pip install jiwer``` and then ```pip install evaluate```
 6. Hugging Face Sentence Transformers: https://huggingface.co/tasks/sentence-similarity   
@@ -20,7 +20,7 @@ Dataset from: https://commonvoice.mozilla.org/en/dataset (Common Voice Delta Seg
 7. Pandas:
      <br> ```pip install pandas```
 8. soundfile:
-     <br> ```pip install soundfile```
+     <br> ```pip install soundfile``` and ```pip install librosa```
 
 Performance Report: https://docs.google.com/document/d/1Kc378I8IxEUm957ndcmMiJkQyHnHVgJjNDjVGVXzHfk/edit?usp=sharing
 
